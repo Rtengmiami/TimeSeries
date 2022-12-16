@@ -1,8 +1,9 @@
-## TimeSeries
-Finial Project in NTUST
-Data we used in this project is from Kaggle and it include Timestamp,Open,High,Low,Close,Volume_(BTC),Volume_(Currency),Weighted_Price all about Bitcoin.
+# TimeSeries
+#Finial Project in NTUST
+#Data we used in this project is from Kaggle and it include Timestamp,Open,High,Low,Close,Volume_(BTC),Volume_(Currency),Weighted_Price all about Bitcoin.
 Finial Project 
-We used five way to predict the Weighted_Price.
+
+*We used five way to predict the Weighted_Price.
   1.ARIMA
   2.Prophet
   3.LSTM
